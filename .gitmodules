@@ -1,0 +1,3 @@
+[submodule "mg5-monos"]
+	path = mg5-monos
+	url = https://gitlab.cern.ch/pgadow/mg5-monos
