@@ -1,0 +1,6 @@
+# Uncomment the line below to skip this analysis altogether
+@MG5aMC skip_analysis
+
+@MG5aMC stdout_lvl=INFO
+
+@MG5aMC inputs = *.lhe
